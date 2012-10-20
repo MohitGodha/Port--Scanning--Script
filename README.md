@@ -17,8 +17,6 @@ And if you want to run anywhere on the system than set the Environment Variable 
 
 Computer->Properties->Advanced System Settings(on left side)->Environment Variable [This is on Windows 7]
 
-My Computer->Properties->Advanced->Environment Variable [This is on Windows XP]
-
 Or Either you can directly put the script on the folder of PortQry(where you install the PortQry) i.e. C:\PortQryV2\Script.vbs
 and Run "Script" from here directly.You don't need to set the path for Environment Variable for this.
 
@@ -31,6 +29,6 @@ PortQryV2.exe from Link http://www.microsoft.com/en-us/download/details.aspx?id=
 
 System Requirements:
 
-Operating System: Windows7,XP
+Operating System: Windows7
 RAM: 128MB
 DiskSpace: 5MB
