@@ -3,7 +3,7 @@ Port--Scanning--Script
 
 It Scans The Port Of Both TCP/UDP Ports And Generates Report For Particular IP Address
 
-WORKING:
+## WORKING:
 
 Here Given the main Script known as "Script.vbs".Download it.
 
@@ -23,12 +23,21 @@ and Run "Script" from here directly.You don't need to set the path for Environme
 This Script Generates the Report for Particular IP which you want to Scan Ports,
 And Helps you to See which Ports are Listening/Not Listening On That Particulat IP Address.
 
-Software Requirements:
+## Software Requirements:
 
 PortQryV2.exe from Link http://www.microsoft.com/en-us/download/details.aspx?id=17148
 
-System Requirements:
+## System Requirements:
 
 Operating System: Windows7
 RAM: 128MB
 DiskSpace: 5MB
+
+## Task TO DO:
+
+Generate Report For only Open Ports(Ports which are Listening):
+This time Script Generates Reports for whole ports, whether it is listening or Not.
+However, We Want this script to Generate Report for only Listening Ports.
+
+Slow Speed To Generate Report For 1 to 65535 Ports:
+Solve This Issue
