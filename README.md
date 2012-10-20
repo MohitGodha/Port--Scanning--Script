@@ -35,9 +35,9 @@ DiskSpace: 5MB
 
 ## Task TO DO:
 
-Generate Report For only Open Ports(Ports which are Listening):
+- **Generate Report For only Open Ports(Ports which are Listening)** :
 This time Script Generates Reports for whole ports, whether it is listening or Not.
 However, We Want this script to Generate Report for only Listening Ports.
 
-Slow Speed To Generate Report For 1 to 65535 Ports:
+- **Slow Speed To Generate Report For 1 to 65535 Ports** :
 Solve This Issue
